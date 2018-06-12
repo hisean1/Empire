@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Army.png</Source>
+      <Name>Army</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Army.xnb</Output>
+      <Time>2017-11-24T20:05:12.0179535-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Battleship.png</Source>
+      <Name>Battleship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Battleship.xnb</Output>
+      <Time>2017-11-23T20:02:54.4157351-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Carrier.png</Source>
+      <Name>Carrier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Carrier.xnb</Output>
+      <Time>2017-11-23T20:02:54.4202471-05:00</Time>
+    </Item>
+    <Item>
+      <Source>City.png</Source>
+      <Name>City</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\City.xnb</Output>
+      <Time>2017-11-23T20:02:54.4252596-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cruiser.png</Source>
+      <Name>Cruiser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Cruiser.xnb</Output>
+      <Time>2017-11-23T20:02:54.4297716-05:00</Time>
+    </Item>
+    <Item>
+      <Source>CurrentUnit.png</Source>
+      <Name>CurrentUnit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\CurrentUnit.xnb</Output>
+      <Time>2017-11-23T20:02:54.4337831-05:00</Time>
+    </Item>
+    <Item>
+      <Source>CursorTile.png</Source>
+      <Name>CursorTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\CursorTile.xnb</Output>
+      <Time>2017-11-23T20:02:54.440801-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Destroyer.png</Source>
+      <Name>Destroyer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Destroyer.xnb</Output>
+      <Time>2017-11-24T19:59:47.2428432-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ErrorTexture.png</Source>
+      <Name>ErrorTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ErrorTexture.xnb</Output>
+      <Time>2017-11-23T20:02:54.4598516-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fighter.png</Source>
+      <Name>Fighter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Fighter.xnb</Output>
+      <Time>2017-11-24T20:02:29.681126-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Land.png</Source>
+      <Name>Land</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Land.xnb</Output>
+      <Time>2017-11-23T20:02:54.4724195-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayButton.png</Source>
+      <Name>PlayButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlayButton.xnb</Output>
+      <Time>2017-11-23T20:02:54.4773983-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sub.png</Source>
+      <Name>Sub</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sub.xnb</Output>
+      <Time>2017-11-23T20:02:54.4814094-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Transport.png</Source>
+      <Name>Transport</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Transport.xnb</Output>
+      <Time>2017-11-23T20:02:54.490436-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Unknown.png</Source>
+      <Name>Unknown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Unknown.xnb</Output>
+      <Time>2017-11-23T20:02:54.4959476-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Water.png</Source>
+      <Name>Water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Water.xnb</Output>
+      <Time>2017-11-23T20:02:54.4994574-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ErrorFont.spritefont</Source>
+      <Name>ErrorFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ErrorFont.xnb</Output>
+      <Time>2017-11-23T20:02:54.4553409-05:00</Time>
+    </Item>
+    <Item>
+      <Source>InfoFont.spritefont</Source>
+      <Name>InfoFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\InfoFont.xnb</Output>
+      <Time>2017-11-23T20:02:54.4678738-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleFont.spritefont</Source>
+      <Name>TitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\TitleFont.xnb</Output>
+      <Time>2017-11-23T20:02:54.4854201-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A5594D34-9005-4F91-8E49-5BE59F4B0B07}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Sean\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-04-11T18:14:24.0071172-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
